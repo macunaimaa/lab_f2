@@ -11,7 +11,7 @@ m5  ;50;1;" ""Massa do disco 5 utilizando uma balança digital cuja resolução 
 m6;50;1;" ""Massa do disco 6 utilizando uma balança digital cuja resolução é 1 g"""
 ma1 ;6;1;" ""Massa do volume de água deslocada com 1 disco"""
 ma2 ;12;1;" ""Massa do volume de água deslocada com 2 discos"""
-ma3 ;28;1;" ""Massa do volume de água deslocada com 3 discos"""
+ma3 ;18;1;" ""Massa do volume de água deslocada com 3 discos"""
 ma4 ;24;1;" ""Massa do volume de água deslocada com 4 discos"""
 ma5 ;30;1;" ""Massa do volume de água deslocada com 5 discos"""
 ma6;36;1;" ""Massa do volume de água deslocada com 6 discos"""
